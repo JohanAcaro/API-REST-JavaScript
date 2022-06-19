@@ -1,0 +1,87 @@
+[
+  {
+    "idAlumno": 1,
+    "NIF": "38381282N",
+    "nombre": "Pedro Díaz Suárez",
+    "curso": "1A",
+    "calificaciones": {
+      "Programacion": 9,
+      "LenguajeMarcas": 6,
+      "BasesDeDatos": 7,
+      "FOL": 6,
+      "SistemasInf": 8,
+      "EntornosDesa": 4
+     }
+     
+  },
+  {
+    "idAlumno": 2,
+    "NIF": "28211313J",
+    "nombre": "Samuel Pérez Rivera",
+    "curso": "1C",
+    "calificaciones": {
+      "Programacion": 10,
+      "lenguajeMarcas": 2,
+      "basesDatos": 6,
+      "FOL": 5,
+      "sistemasInf": 4,
+      "EntornosDesa": 3
+    }
+  },
+  {
+    "idAlumno": 3,
+    "NIF":"55347543T",
+    "nombre": "Mario Fernández Herrero",
+    "curso": "1E",
+    "calificaciones": {
+      "Programacion": 4,
+      "LenguajeMarcas": 8,
+      "BasesDatos": 5,
+      "FOL": 3,
+      "SistemasInf": 1,
+      "EntornosDesa": 9
+    }
+  },
+  {
+    "idAlumno": 4,
+    "NIF": "12317432F",
+    "nombre": "Roberto Mendoza Giménez",
+    "curso": "2D",
+    "calificaciones": {
+      "Programacion": 6,
+      "LenguajeMarcas": 9,
+      "BasesDatos": 9,
+      "FOL": 8,
+      "SistemasInf": 7,
+      "EntornosDesa": 10
+    }
+  },
+  {
+    "idAlumno": 5,
+    "NIF":"12312313J",
+    "nombre": "Ángela Rodríguez Nieves",
+    "curso": "2C",
+    "calificaciones": {
+      "Programacion": 4,
+      "LenguajeMarcas": 2,
+      "BasesDatos": 3,
+      "FOL": 2,
+      "SistemasInf": 1,
+      "EntornosDesa": 3
+    }
+  },
+  {
+    "idAlumno": 6,
+    "NIF": "62552187K",
+    "nombre": "Fernando Galán Ferro ",
+    "curso": "2E",
+    "calificaciones": {
+      "Programacion": 5,
+      "LenguajeMarcas": 6,
+      "BasesDatos": 4,
+      "FOL": 10,
+      "SistemasInf": 9,
+      "EntornosDesa": 8
+    }
+  }
+]

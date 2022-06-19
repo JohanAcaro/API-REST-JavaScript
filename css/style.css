@@ -1,0 +1,14 @@
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: rgb(235, 233, 233);
+    text-align: center;
+
+}
+.contenedor{
+    text-align: center;
+    background-color: rgb(241, 118, 104);
+    color: black;
+    padding-top: 20px;
+}
